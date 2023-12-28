@@ -13,6 +13,9 @@ This repository contains the script `finetuned_bart.py`, designed for fine-tunin
 - Transformers Library (Hugging Face)
 - NLTK
 
+## Dataset
+https://uscode.house.gov/download/download.shtml
+
 ## Usage
 1. **Fine-Tuning the Model**:
    - Fine-tune the BART model on your dataset by running the script. Ensure your dataset is compatible with the script's data processing functions.
