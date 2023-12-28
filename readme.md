@@ -18,11 +18,7 @@ This repository contains the script `finetuned_bart.py`, designed for fine-tunin
    - Fine-tune the BART model on your dataset by running the script. Ensure your dataset is compatible with the script's data processing functions.
    - Adjust hyperparameters like batch size, learning rate, and epochs as needed.
 
-2. **Evaluating the Model**:
-   - The script evaluates the model's performance using the ROUGE metric.
-   - Evaluation results indicate the model's effectiveness in generating coherent and relevant summaries.
-
-3. **Generating Summaries**:
+2. **Generating Summaries**:
    - Generate summaries for new text inputs using the fine-tuned model.
    - The `generate_summary` function in the script takes a text input and outputs its summary.
 
